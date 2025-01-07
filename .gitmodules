@@ -1,0 +1,3 @@
+[submodule "zehnder-q350-interface/esphome"]
+	path = zehnder-q350-interface/esphome
+	url = https://github.com/ggajoch/esphome-zehnder-comfoair.git
