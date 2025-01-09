@@ -100,10 +100,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTKCDITG
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for led-relay\Design Rule Check - led-relay.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
