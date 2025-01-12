@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=+24V
 
 [Preferences]
 PrefsVaultGUID=
@@ -100,9 +101,102 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFTOZVPD
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for led-esp32s2\Design Rule Check - led-esp32s2.html
-DItemRevisionGUID=
+[ProjectVariant1]
+UniqueId=5d7a2ef1-168a-4132-ae8f-a7b62741ae22
+Description=+24V
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=J14|UniqueId=\FOBYRBLE|Kind=1|AlternatePart=
+Variation2=Designator=R1|UniqueId=\AITJSATW|Kind=1|AlternatePart=
+Variation3=Designator=R2|UniqueId=\AFSBHAYX|Kind=1|AlternatePart=
+Variation4=Designator=R8|UniqueId=\IPRIJMFH|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueId=a0d0e4cb-aa08-4a6c-bd11-ee511c7c5289
+Description=USB
+AllowFabrication=0
+ParameterCount=0
+VariationCount=7
+Variation1=Designator=R6|UniqueId=\LUOZIPQS|Kind=1|AlternatePart=
+Variation2=Designator=MOD1|UniqueId=\DSKKQSLJ|Kind=1|AlternatePart=
+Variation3=Designator=C3|UniqueId=\PPXFCQVM|Kind=1|AlternatePart=
+Variation4=Designator=P2|UniqueId=\LOMVIFDS|Kind=1|AlternatePart=
+Variation5=Designator=J9|UniqueId=\DBYPXTGA|Kind=1|AlternatePart=
+Variation6=Designator=D1|UniqueId=\VUWKDOIR|Kind=1|AlternatePart=
+Variation7=Designator=R8|UniqueId=\IPRIJMFH|Kind=2|AlternatePart=Resistor|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=K:\altium_lib_db\Library.DBLib/Resistors|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=R_0R_1206_5|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Library.DBLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=R_1206_3216|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=AEC-Q|VariantValue=
+ParamDesignator1=R8
+ParamVariation2=ParameterName=Comment|VariantValue=Resistor
+ParamDesignator2=R8
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=R8
+ParamVariation4=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator4=R8
+ParamVariation5=ParameterName=Description|VariantValue=
+ParamDesignator5=R8
+ParamVariation6=ParameterName=Footprint|VariantValue=R_1206_3216
+ParamDesignator6=R8
+ParamVariation7=ParameterName=HelpURL|VariantValue=https://eu.mouser.com/datasheet/2/54/cr-1858361.pdf
+ParamDesignator7=R8
+ParamVariation8=ParameterName=Ibis Model|VariantValue=
+ParamDesignator8=R8
+ParamVariation9=ParameterName=Library Reference|VariantValue=R_0R_1206_5
+ParamDesignator9=R8
+ParamVariation10=ParameterName=Manufacturer|VariantValue=Bourns
+ParamDesignator10=R8
+ParamVariation11=ParameterName=Manufacturer Part Number|VariantValue=CR1206-J/-000ELF
+ParamDesignator11=R8
+ParamVariation12=ParameterName=Part Number|VariantValue=R_0R_1206_5
+ParamDesignator12=R8
+ParamVariation13=ParameterName=PCB3D|VariantValue=
+ParamDesignator13=R8
+ParamVariation14=ParameterName=Pin Info|VariantValue=
+ParamDesignator14=R8
+ParamVariation15=ParameterName=Power|VariantValue=250mW
+ParamDesignator15=R8
+ParamVariation16=ParameterName=SCH_Footprint|VariantValue=1206
+ParamDesignator16=R8
+ParamVariation17=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator17=R8
+ParamVariation18=ParameterName=Simulation|VariantValue=
+ParamDesignator18=R8
+ParamVariation19=ParameterName=Supplier 1|VariantValue=TME
+ParamDesignator19=R8
+ParamVariation20=ParameterName=Supplier 2|VariantValue=RS Components
+ParamDesignator20=R8
+ParamVariation21=ParameterName=Supplier 3|VariantValue=Farnell
+ParamDesignator21=R8
+ParamVariation22=ParameterName=Supplier 4|VariantValue=Mouser
+ParamDesignator22=R8
+ParamVariation23=ParameterName=Supplier 5|VariantValue=Digi-Key
+ParamDesignator23=R8
+ParamVariation24=ParameterName=Supplier 6|VariantValue=LCSC
+ParamDesignator24=R8
+ParamVariation25=ParameterName=Supplier 7|VariantValue=
+ParamDesignator25=R8
+ParamVariation26=ParameterName=Supplier Part Number 1|VariantValue=
+ParamDesignator26=R8
+ParamVariation27=ParameterName=Supplier Part Number 2|VariantValue=70410716
+ParamDesignator27=R8
+ParamVariation28=ParameterName=Supplier Part Number 3|VariantValue=2008396
+ParamDesignator28=R8
+ParamVariation29=ParameterName=Supplier Part Number 4|VariantValue=652-CR1206-J/-000ELF
+ParamDesignator29=R8
+ParamVariation30=ParameterName=Supplier Part Number 5|VariantValue=CR1206-J/-000ELFCT-ND
+ParamDesignator30=R8
+ParamVariation31=ParameterName=Supplier Part Number 6|VariantValue=
+ParamDesignator31=R8
+ParamVariation32=ParameterName=Supplier Part Number 7|VariantValue=
+ParamDesignator32=R8
+ParamVariation33=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator33=R8
+ParamVariation34=ParameterName=Value|VariantValue=0R
+ParamDesignator34=R8
+ParamVariation35=ParameterName=Voltage|VariantValue=200V
+ParamDesignator35=R8
+ParamVariationCount=35
 
 [Configuration1]
 Name=Sources

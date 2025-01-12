@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=led-esp32s2.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=differential receiver.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=differential receiver.SchDoc|Designator=P1|SchDesignator=P1|FileName=RS422_RX.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=RS422_RX.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=differential receiver.SchDoc|Designator=P2|SchDesignator=P2|FileName=RS422_RX.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=RS422_RX.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=differential receiver.SchDoc|Designator=P3|SchDesignator=P3|FileName=RS422_RX.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=RS422_RX.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
