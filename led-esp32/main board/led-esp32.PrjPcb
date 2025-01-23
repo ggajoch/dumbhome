@@ -126,9 +126,9 @@ Variation4=Designator=P2|UniqueId=\LOMVIFDS|Kind=1|AlternatePart=
 Variation5=Designator=J9|UniqueId=\DBYPXTGA|Kind=1|AlternatePart=
 Variation6=Designator=D1|UniqueId=\VUWKDOIR|Kind=1|AlternatePart=
 Variation7=Designator=R8|UniqueId=\IPRIJMFH|Kind=2|AlternatePart=Resistor|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=K:\altium_lib_db\Library.DBLib/Resistors|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=R_0R_1206_5|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Library.DBLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=R_1206_3216|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=AEC-Q|VariantValue=
+ParamVariation1=ParameterName=Comment|VariantValue=Resistor
 ParamDesignator1=R8
-ParamVariation2=ParameterName=Comment|VariantValue=Resistor
+ParamVariation2=ParameterName=AEC-Q|VariantValue=
 ParamDesignator2=R8
 ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator3=R8
